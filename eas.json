@@ -3,7 +3,7 @@
     "appVersionSource": "remote"
   },
   "build": {
-    "production": {
+    "preview": {
       "autoIncrement": true,
       "android": {
         "image": "latest"
