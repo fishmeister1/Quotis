@@ -1,0 +1,18 @@
+export default {
+  primary: '#0066FF',
+  primaryLight: '#E6F0FF',
+  accent: '#8B5CF6',
+  success: '#00C853',
+  successLight: '#E8F5E9',
+  warning: '#FF9800',
+  warningLight: '#FFF3E0',
+  danger: '#FF3B30',
+  dangerLight: '#FFEBEE',
+  background: '#F8F9FA',
+  card: '#FFFFFF',
+  text: '#1A1A1A',
+  textSecondary: '#6B7280',
+  textTertiary: '#A0A0A5',
+  border: '#E5E7EB',
+  shadow: '#000000',
+};
